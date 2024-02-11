@@ -1,6 +1,19 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Aakash Agarwal </p>
+logo: /assets/img/pic.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/aakash-agarwal-653a2014a/">LinkedIn</a> |
+  <a href="https://github.com/aakashagrwl">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, and Machine learning related problems.
+  Currently working in Lowe's Services India Pvt. Ltd.
+  Total Experience 8years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
